@@ -1,14 +1,24 @@
 {
   "name": "desarrollowebint",
   "version": "1.0.0",
+  "description": "Alexandra Paola Lopez Guardado",
+  "keywords": [],
+  "homepage": "https://github.com/Betza1/PrubaRest9A#readme",
+  "bugs": {
+    "url": "https://github.com/Betza1/PrubaRest9A/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Betza1/PrubaRest9A.git"
+  },
+  "license": "ISC",
+  "author": "Miriam Betzabe Robles Reyes",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "start": "node server.js"
   },
-  "keywords": [],
-  "author": "Miriam Betzabe Robles Reyes",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^5.1.0"
   },
